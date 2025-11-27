@@ -4,7 +4,7 @@
 
 *Консольное приложение для симуляции системы управления заказами доставки еды*  
 *Демонстрация принципов ООП и паттернов проектирования на C#*
-*возьмите меня работать в Яндекс...*
+*Возьмите меня работать в Яндекс...*
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -51,6 +51,7 @@
 **Реализации**:
 - `StandardCostStrategy`
 - `DiscountCostStrategy`
+  
 **Преимущества**:
 - Возможность менять алгоритм "на лету"
 - Изоляция кода алгоритмов от клиентского кода
