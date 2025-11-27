@@ -1,0 +1,14 @@
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/DeliveryService.AssemblyInfoInputs.cache
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/DeliveryService.AssemblyInfo.cs
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/DeliveryService.csproj.CoreCompileInputs.cache
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/bin/Debug/net9.0/DeliveryService
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/bin/Debug/net9.0/DeliveryService.deps.json
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/bin/Debug/net9.0/DeliveryService.runtimeconfig.json
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/bin/Debug/net9.0/DeliveryService.dll
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/bin/Debug/net9.0/DeliveryService.pdb
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/DeliveryService.dll
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/refint/DeliveryService.dll
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/DeliveryService.pdb
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/DeliveryService.genruntimeconfig.cache
+/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/Debug/net9.0/ref/DeliveryService.dll

@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService.Tests/DeliveryService.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService.Tests/DeliveryService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService.Tests/DeliveryService.Tests.csproj",
+        "projectName": "DeliveryService.Tests",
+        "projectPath": "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService.Tests/DeliveryService.Tests.csproj",
+        "packagesPath": "/Users/amish88r/.nuget/packages/",
+        "outputPath": "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amish88r/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/DeliveryService.csproj": {
+                "projectPath": "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/DeliveryService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/DeliveryService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/DeliveryService.csproj",
+        "projectName": "DeliveryService",
+        "projectPath": "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/DeliveryService.csproj",
+        "packagesPath": "/Users/amish88r/.nuget/packages/",
+        "outputPath": "/Users/amish88r/RiderProjects/FoodDeliverySystem/DeliveryService/DeliveryService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amish88r/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <!-- Ваша версия .NET, оставляем как было -->
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+        <IsTestProject>true</IsTestProject>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <!-- УДАЛЯЕМ xunit и coverlet, ДОБАВЛЯЕМ нужные пакеты для MSTest -->
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />
+        <PackageReference Include="MSTest.TestAdapter" Version="3.5.0" />
+        <PackageReference Include="MSTest.TestFramework" Version="3.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <!-- Ссылка на ваш основной проект, она уже была и это правильно -->
+        <ProjectReference Include="..\DeliveryService\DeliveryService.csproj" />
+    </ItemGroup>
+
+</Project>
